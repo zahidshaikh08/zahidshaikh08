@@ -8,9 +8,4 @@
 - 📫 How to reach me: Twitter : https://twitter.com/zahidshaikh081...
 - 😄 Pronouns: Zahid,Zaid...
 - ⚡ Fun fact: I gets problem solution in my dreams...
-
-```
-![Visitor Count](https : //profile-counter.glitch.me/zahidshaikh08/count.svg)
-```
-
 -->
